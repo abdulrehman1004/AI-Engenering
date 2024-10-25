@@ -169,3 +169,4 @@ Data science offers a wide range of job opportunities across different industrie
 Data science careers span a broad spectrum, from entry-level data analysts to advanced roles in AI research and machine learning. Depending on your skills and interests, you can find a data science job that suits your expertise, whether you prefer technical programming, statistical analysis, or managing large-scale projects.
 
 ---
+  
